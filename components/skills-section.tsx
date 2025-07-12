@@ -138,7 +138,7 @@ const SkillsSection = () => {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold mb-2">Location</h4>
-                  <p className="text-gray-400">Bengaluru, IN</p>
+                  <p className="text-gray-400">Bhopal, IN</p>
                 </div>
               </div>
             </CardContent>
