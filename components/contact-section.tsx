@@ -65,7 +65,7 @@ const ContactSection = () => {
     {
       icon: <MapPin className="h-5 w-5" />,
       label: 'Location',
-      value: 'Bengaluru, IN',
+      value: 'Bhopal, IN',
       href: null,
     },
     {
